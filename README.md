@@ -1,0 +1,2 @@
+# WITCH-ESCAPE
+This is a endless runner game where you are a little girl and you need to run away from a witch. Also you need to stay away from the horror pumpkin obstacles. If you hit a horror pumpkin obstacle, you will fall and the if you fall 5 times, the witch will kill you. This was created in Javascript in P5.js by me getting taught from WhitehatJR. This is also a project of the Capstone Class of Class 19(YOUR OWN INFINITE RUNNER GAME) in WhitehatJR Pro Course. To edit the game change the code in the sketch.js file.
